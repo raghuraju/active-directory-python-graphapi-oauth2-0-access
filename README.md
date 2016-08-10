@@ -1,7 +1,7 @@
 ---
 services: active-directory
 platforms: python
-author: danielxu-msft
+author: msonecode
 ---
 
 # Python App-Only sample for Microsoft Graph
